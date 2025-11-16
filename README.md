@@ -1,7 +1,7 @@
 ## Hi! I am Induwara. 
 🌱I am dedicated to expanding my knowledge.
 <!--
-**Sachindu-Nethmin/Sachindu-Nethmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kkindu12/kkindu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkindu12&label=Profile%20views&color=0e75b6&style=flat" alt="kkindu12"  /> </p>
 
-![Induwara's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkindu12n&theme=dark&show_icons=true )
+![Induwara's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkindu12&theme=dark&show_icons=true )
 ![](https://github-contributor-stats.vercel.app/api?username=kkindu12&limit=5&theme=dark&combine_all_yearly_contributions=true&width=35%)
 
 
