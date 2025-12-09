@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkindu12&label=Profile%20views&color=0e75b6&style=flat" alt="kkindu12"  /> </p>
 
-![Induwara's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkindu12&theme=dark&show_icons=true )
+
 ![](https://github-contributor-stats.vercel.app/api?username=kkindu12&limit=5&theme=dark&combine_all_yearly_contributions=true&width=35%)
 
 
@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkindu12&theme=dark&langs_count=12&show_icons=true&locale=en&layout=compact" alt="kkindu12" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=kkindu12&theme=onedark" alt="kkindu12" /></a> </p>
 
 
 <p align="left"></p>
