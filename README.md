@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkindu12&label=Profile%20views&color=0e75b6&style=flat" alt="kkindu12"  /> </p>
 
 
-![](https://github-contributor-stats.vercel.app/api?username=kkindu12&limit=5&theme=dark&combine_all_yearly_contributions=true&width=35%)
+
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
